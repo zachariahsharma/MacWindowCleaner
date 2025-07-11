@@ -1,6 +1,3 @@
-#!/usr/bin/env python3
-"""Automatically close unused macOS apps after a period of inactivity."""
-
 import subprocess
 import time
 from collections import defaultdict
